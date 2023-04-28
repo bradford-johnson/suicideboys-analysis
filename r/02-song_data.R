@@ -27,4 +27,4 @@
   df <- get_songs(song_vector)
 
 # write csv
-  write_csv(df, "data/song_data.csv")
+  write_excel_csv(df, "data/song_data.csv")

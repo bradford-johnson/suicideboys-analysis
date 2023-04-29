@@ -25,10 +25,10 @@
   
 # function to get all tracks into one df
   get_track_df <- function(id_vec) {
-    df_list <- lapply(id_vec, function(id) {
-      album_tracks <- get_album_tracks(id)
+    df_list <- lapply(id_vec, function(ids) {
+      album_tracks <- get_album_tracks(ids)
       album_tracks %>% 
-        mutate(album_id = id)
+        mutate(album_id = ids)
     })
     combined_df <- do.call(rbind, df_list)
     return(combined_df)

@@ -1,0 +1,48 @@
+# load packages
+  pacman::p_load(tidyverse,
+                 spotifyr)
+
+# set up spotify api
+  Sys.getenv("SPOTIFY_CLIENT_ID")
+  Sys.getenv("SPOTIFY_CLIENT_SECRET")
+  
+  access_token <- get_spotify_access_token()
+  
+# get albums data
+  albums <- get_artist_albums('1VPmR4DJC1PlOtd0IADAO0')
+  
+  album_ids <- albums$id
+  
+# clean up albums data
+  albums <- albums |>
+    select(id, name, release_date, total_tracks, artists, images)
+  
+  albums <- albums |>
+    mutate(artists = sapply(artists, function(x) x[[3]]),
+           images = sapply(images, function(x) x[[2]][2]))
+  
+# function to get all tracks into one df
+  get_track_df <- function(id_vec) {
+    df_list <- lapply(id_vec, function(id) {
+      album_tracks <- get_album_tracks(id)
+      album_tracks %>% 
+        mutate(album_id = id)
+    })
+    combined_df <- do.call(rbind, df_list)
+    return(combined_df)
+  }
+  
+# get all tracks data
+  tracks <- get_track_df(album_ids)
+  
+# clean up tracks data
+  tracks <- tracks |>
+    select(album_id, track_number, name, id, explicit, duration_ms, artists)
+
+  tracks <- tracks |>
+    mutate(artists = sapply(artists, function(x) x[[3]]))
+  
+# save data frames as csv
+  write_excel_csv(albums, "data/album_data_spotify.csv")
+  
+  write_excel_csv(tracks, "data/tracks_data_spotify.csv")

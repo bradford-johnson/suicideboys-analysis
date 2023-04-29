@@ -18,8 +18,10 @@
     select(id, name, release_date, total_tracks, artists, images)
   
   albums <- albums |>
-    mutate(artists = sapply(artists, function(x) x[[3]]),
-           images = sapply(images, function(x) x[[2]][2]))
+    mutate(artist_1 = sapply(artists, function(x) x[[3]][1]),
+           artist_2 = sapply(artists, function(x) x[[3]][2]),
+           images = sapply(images, function(x) x[[2]][2])) |>
+    select(-artists)
   
 # function to get all tracks into one df
   get_track_df <- function(id_vec) {
@@ -40,9 +42,14 @@
     select(album_id, track_number, name, id, explicit, duration_ms, artists)
 
   tracks <- tracks |>
-    mutate(artists = sapply(artists, function(x) x[[3]]))
+    mutate(artist_1 = sapply(artists, function(x) x[[3]][1]),
+           artist_2 = sapply(artists, function(x) x[[3]][2]),
+           artist_3 = sapply(artists, function(x) x[[3]][3]),
+           artist_4 = sapply(artists, function(x) x[[3]][4])) |>
+    select(-artists)
   
 # save data frames as csv
   write_excel_csv(albums, "data/album_data_spotify.csv")
   
   write_excel_csv(tracks, "data/tracks_data_spotify.csv")
+  

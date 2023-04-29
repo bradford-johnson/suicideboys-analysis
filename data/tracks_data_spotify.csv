@@ -1,216 +1,216 @@
-﻿"album_id","track_number","name","id","explicit","duration_ms","artists"
-"49YpGS0rVcRLtiDvx5JQyp",1,"Sorry for the Delay","49YpGS0rVcRLtiDvx5JQyp",TRUE,172399,
-"5dol1hrERJOReznLRJ2VVQ",2,"BUCKHEAD","5dol1hrERJOReznLRJ2VVQ",TRUE,183919,
-"3QQXpvZd9qmzHZ02wDf2im",3,"I Dream of Chrome","3QQXpvZd9qmzHZ02wDf2im",TRUE,145842,
-"1UsvO5U72YRU8Xnq8Lp14O",4,"Champagne Face","1UsvO5U72YRU8Xnq8Lp14O",TRUE,140288,
-"2CkpD7gqMXrrpTCJ9TZ0bw",5,"The Serpent and the Rainbow","2CkpD7gqMXrrpTCJ9TZ0bw",TRUE,177289,
-"1xIibyoUvyxwoNqx8quHSz",6,"My Swisher Sweet, But My Sig Sauer","1xIibyoUvyxwoNqx8quHSz",TRUE,226932,
-"67IECOggWzBnCERhbOlTRp",7,"Center Core Never More","67IECOggWzBnCERhbOlTRp",TRUE,164723,
-"71P7pdWKILYamVOO3sBiyZ",1,"Sorry for the Delay","71P7pdWKILYamVOO3sBiyZ",FALSE,172399,
-"0BAC9DqH5DQJk5eSO3ob5A",2,"BUCKHEAD","0BAC9DqH5DQJk5eSO3ob5A",FALSE,183919,
-"06Xl8J0witMnNjGOb0xE1C",3,"I Dream of Chrome","06Xl8J0witMnNjGOb0xE1C",FALSE,145842,
-"7IsxuZDVhz9lAnNYigtxfd",4,"Champagne Face","7IsxuZDVhz9lAnNYigtxfd",FALSE,140288,
-"4TQ2pOq6WqDGRmrMW1oeY1",5,"The Serpent and the Rainbow","4TQ2pOq6WqDGRmrMW1oeY1",FALSE,177289,
-"2gujYACn169eiX3FTIVEMt",6,"My Swisher Sweet, But My Sig Sauer","2gujYACn169eiX3FTIVEMt",FALSE,226932,
-"57egtxplATgvcXEcFkVkSK",7,"Center Core Never More","57egtxplATgvcXEcFkVkSK",FALSE,163836,
-"2UbMJbQq6G0TJnmnubgolV",1,"Genesis","2UbMJbQq6G0TJnmnubgolV",TRUE,162138,
-"0hPRWztAIbNkt6GcFcLiqF",2,"Matte Black","0hPRWztAIbNkt6GcFcLiqF",TRUE,238145,
-"2gkVweydDn7MmHmqXAlEzk",3,"Fucking Your Culture","2gkVweydDn7MmHmqXAlEzk",TRUE,195994,
-"09riz9pAPJyYYDVynE5xxY",4,"1000 Blunts","09riz9pAPJyYYDVynE5xxY",TRUE,175476,
-"1TnfJHuRolxBBbweTa3qby",5,"In Constant Sorrow","1TnfJHuRolxBBbweTa3qby",TRUE,158516,
-"12SqxMqtStXppn5fjDYr45",6,"Escape From BABYLON","12SqxMqtStXppn5fjDYr45",TRUE,141043,
-"0GX0o6zfRAE50vvFoQQIph",7,"Ashes of Luxury","0GX0o6zfRAE50vvFoQQIph",TRUE,97300,
-"0dKrkVDKJZHI787AaxmgQ0",8,"Resistance Is Useless","0dKrkVDKJZHI787AaxmgQ0",TRUE,142668,
-"5yshqP8Dvk7JmHeJ5BiLyP",9,"Eulogy","5yshqP8Dvk7JmHeJ5BiLyP",TRUE,227505,
-"3wGT3OycqbsHFjIKMZ8EEq",10,"No Matter Which Direction I'm Going In, I Never Chase These Hoes","3wGT3OycqbsHFjIKMZ8EEq",TRUE,154915,
-"6LoaYlv0bC1TyctuADqNFh",11,"$uicideboy$ Were Better In 2015","6LoaYlv0bC1TyctuADqNFh",TRUE,143346,
-"6zmOzxSclGHqbmgkjYdBdl",12,"Unlucky Me","6zmOzxSclGHqbmgkjYdBdl",TRUE,155673,
-"5diz02QLFSmDur9R9M6bcD",13,"THE_EVIL_THAT_MEN_DO","5diz02QLFSmDur9R9M6bcD",TRUE,173372,
-"6nF0rvUwrAC6hGzyl0CMNs",1,"Genesis","6nF0rvUwrAC6hGzyl0CMNs",FALSE,162138,
-"3TCYRzQ9YVI3gsgx0ymabj",2,"Matte Black","3TCYRzQ9YVI3gsgx0ymabj",FALSE,238145,
-"1DW6mNdUNcdkLQbHmUVcGr",3,"Fucking Your Culture","1DW6mNdUNcdkLQbHmUVcGr",FALSE,195994,
-"6v4OiUGljz7DWl1fcqs7aj",4,"1000 Blunts","6v4OiUGljz7DWl1fcqs7aj",FALSE,175476,
-"1QmkdwULYI0kqOMggAFKpP",5,"In Constant Sorrow","1QmkdwULYI0kqOMggAFKpP",FALSE,158516,
-"7yltH5UxM0BExPv9hnYdiV",6,"Escape from Babylon","7yltH5UxM0BExPv9hnYdiV",FALSE,142346,
-"42ZYHBa6QWbzRMCH9h9cDW",7,"Ashes of Luxury","42ZYHBa6QWbzRMCH9h9cDW",FALSE,97300,
-"7Bt2kvCTyIofCvAjEgQXWb",8,"Resistance is Useless","7Bt2kvCTyIofCvAjEgQXWb",FALSE,156289,
-"06wakhxgzpxDG2kkXpCkoN",9,"Eulogy","06wakhxgzpxDG2kkXpCkoN",FALSE,227505,
-"5VJkJOojJng9WdEYeCTo2q",10,"No Matter Which Direction I'm Going in, I Never Chase These Hoes","5VJkJOojJng9WdEYeCTo2q",FALSE,154915,
-"5RwLDtX6PT2TWDA88CSdvs",11,"$uicideboy$ Were Better in 2015","5RwLDtX6PT2TWDA88CSdvs",FALSE,143346,
-"1fmSYaIT0TQKFN3hnJAIpC",12,"Unlucky Me","1fmSYaIT0TQKFN3hnJAIpC",FALSE,155673,
-"5TdcPrfEpoQmWJyeFpc1bF",13,"THE_EVIL_THAT_MEN_DO","5TdcPrfEpoQmWJyeFpc1bF",FALSE,172845,
-"3sUS7AZuOA4KKxqNJLmrM2",1,"Degeneration in the Key of A Minor","3sUS7AZuOA4KKxqNJLmrM2",TRUE,128000,
-"5ikjIVLHoBrgaZ0zNrn6Ty",2,"If Self-Destruction Was an Olympic Event, I’d Be Tonya Harding","5ikjIVLHoBrgaZ0zNrn6Ty",TRUE,142707,
-"5wRSnumY0x8O47QuxgqwhR",3,"Life Is but a Stream~","5wRSnumY0x8O47QuxgqwhR",TRUE,122880,
-"1RSjxBz03F6vEqoHT9jWBa",4,"5 Grand at 8 to 1","1RSjxBz03F6vEqoHT9jWBa",TRUE,169565,
-"53SiIWzvx7vKzLmAHrZwog",5,"WE ENVY NOTHING IN THE WORLD.","53SiIWzvx7vKzLmAHrZwog",TRUE,171428,
-"0nWHCNMGj7oDC1YED1tHoL",6,"Lighting the Flames of My Own Personal Hell","0nWHCNMGj7oDC1YED1tHoL",TRUE,110163,
-"0oGakZG2y3wcgHDF1YWPGD",7,"New Profile Pic","0oGakZG2y3wcgHDF1YWPGD",TRUE,127768,
-"5C33XaYYMuEKvGmABGHwOa",8,"Bleach","5C33XaYYMuEKvGmABGHwOa",TRUE,160240,
-"6DtlH2Ax805sJmaty5mtfK",9,"Forget It","6DtlH2Ax805sJmaty5mtfK",TRUE,198983,
-"19n8izXThARSuQAXrOKNbO",10,"Avalon","19n8izXThARSuQAXrOKNbO",TRUE,140858,
-"5xrH7dVah85mTEr4jgT1mu",11,"Materialism as a Means to an End","5xrH7dVah85mTEr4jgT1mu",TRUE,166250,
-"2Q9nA56DKKJhj4cHMbHlAS",12,"Ugliest","2Q9nA56DKKJhj4cHMbHlAS",TRUE,178131,
-"4gAtj23mqTx5pjfkzVaXhh",13,"The Number You Have Dialed Is Not in Service","4gAtj23mqTx5pjfkzVaXhh",TRUE,165970,
-"1TleUKjPsKxUYwpT3mvPh2",1,"Degeneration in the Key of A Minor","1TleUKjPsKxUYwpT3mvPh2",FALSE,128000,
-"73E91WqIBGyeRgpW0YpI0G",2,"If Self-Destruction Was an Olympic Event, I'd Be Tonya Harding","73E91WqIBGyeRgpW0YpI0G",FALSE,142707,
-"0voXvVKVHZckJdLo1p9yG6",3,"Life is but a Stream~","0voXvVKVHZckJdLo1p9yG6",FALSE,122880,
-"5Lc0LKibgVJcbDvM6o1g6n",4,"5 Grand at 8 to 1","5Lc0LKibgVJcbDvM6o1g6n",FALSE,169565,
-"5MmzyTFUZJ7RXh8FmRnlku",5,"WE ENVY NOTHING IN THE WORLD.","5MmzyTFUZJ7RXh8FmRnlku",FALSE,171936,
-"78IVmIVNjgxlgynM2GyTlo",6,"Lighting the Flames of My Own Personal Hell","78IVmIVNjgxlgynM2GyTlo",FALSE,110163,
-"57XbwjcmMagETvebRm0lsj",7,"New Profile Pic","57XbwjcmMagETvebRm0lsj",FALSE,127768,
-"5YjlLI8xawIXacubkU1pNJ",8,"Bleach","5YjlLI8xawIXacubkU1pNJ",FALSE,160240,
-"4dnEHppsr6i1iZU1tA2ZQ6",9,"Forget It","4dnEHppsr6i1iZU1tA2ZQ6",FALSE,198983,
-"2PIqCvJ4cvQv924k2iyiQ5",10,"Avalon","2PIqCvJ4cvQv924k2iyiQ5",FALSE,140858,
-"7BOJaY2TkNQC4lS6PUTabm",11,"Materialism as a Means to an End","7BOJaY2TkNQC4lS6PUTabm",FALSE,166250,
-"0Mo0f5FxAGVAlHlCGJocLH",12,"Ugliest","0Mo0f5FxAGVAlHlCGJocLH",FALSE,178131,
-"1RehUirIVkaPNpydVHFFc5",13,"The Number You Have Dialed is Not in Service","1RehUirIVkaPNpydVHFFc5",FALSE,166007,
-"1DoBPOlB884EHiftB46QGx",1,"All Dogs Go to Heaven","1DoBPOlB884EHiftB46QGx",TRUE,153652,
-"2kwGrUme2JTUvF5Zf91Ocj",2,"I Wanna Be Romanticized","2kwGrUme2JTUvF5Zf91Ocj",TRUE,133746,
-"5pVZABS2GkOJf7adB3b2al",3,"One Last Look at the Damage","5pVZABS2GkOJf7adB3b2al",TRUE,97671,
-"1S4MM1ukLm3ourrBJGHniC",4,"[whispers Indistinctly]","1S4MM1ukLm3ourrBJGHniC",TRUE,164623,
-"0TtvdE2beN4abriNlNBlpJ",5,"Mega Zeph","0TtvdE2beN4abriNlNBlpJ",TRUE,101799,
-"4x3vJJYSW9fZWIubv5mmww",6,"Putrid Pride","4x3vJJYSW9fZWIubv5mmww",TRUE,106971,
-"3xQq3mpD6hunD2XG7FXHHu",7,"That Just Isn't Empirically Possible","3xQq3mpD6hunD2XG7FXHHu",TRUE,123902,
-"29iepR0ydOuYFaZp8um6H8",8,"What the Fuck is Happening","29iepR0ydOuYFaZp8um6H8",TRUE,106340,
-"3wYnfIWrBYOHx9MR3EcJzu",9,"Bizarro","3wYnfIWrBYOHx9MR3EcJzu",TRUE,214360,
-"4RP6oacRQpBRFCSU8ErhUk",10,"Scope Set","4RP6oacRQpBRFCSU8ErhUk",TRUE,93422,
-"5LYjGMfcITu0nse2enQFPL",11,"Fuck Your Culture","5LYjGMfcITu0nse2enQFPL",TRUE,102060,
-"30QR0ndUdiiMQMA9g1PGCm",12,"...And to Those I Love, Thanks for Sticking Around","30QR0ndUdiiMQMA9g1PGCm",TRUE,168489,
-"6cpslq4nypOt9NhLPIwY6c",1,"King Tulip","6cpslq4nypOt9NhLPIwY6c",TRUE,185217,
-"3rP8RCgsXY9mJg3dDwBZDU",2,"Bring out Your Dead","3rP8RCgsXY9mJg3dDwBZDU",TRUE,106040,
-"2qXOuks93SBqKbQofW208w",3,"Nicotine Patches","2qXOuks93SBqKbQofW208w",TRUE,156033,
-"1uksi19G4rvXZLJzmb0uDx",4,"10,000 Degrees","1uksi19G4rvXZLJzmb0uDx",TRUE,189108,
-"77o41Py1xkwaxs3200SKhW",5,"122 Days","77o41Py1xkwaxs3200SKhW",TRUE,184324,
-"1Ci1sDqan6BXP4Xssy6CbP",6,"Phanton Menace","1Ci1sDqan6BXP4Xssy6CbP",TRUE,141971,
-"7yGX7bh3zJx4dM7ocSY4wY",7,"Krewe Du Vieux (Comedy & Tragedy)","7yGX7bh3zJx4dM7ocSY4wY",TRUE,104472,
-"1KcmA9sVN4TpXmUjLk83B9",8,"WAR TIME ALL THE TIME","1KcmA9sVN4TpXmUjLk83B9",TRUE,145581,
-"73hmZZ7HyLgUQj2DaybfBb",9,"Coma","73hmZZ7HyLgUQj2DaybfBb",TRUE,137772,
-"1a6GdgTR05j7hTgKPsK3ZM",10,"Long Gone (Save Me from This Hell)","1a6GdgTR05j7hTgKPsK3ZM",TRUE,138764,
-"3WvD5PIWmJilHbYXtU5lp3",11,"Meet Mr. NICEGUY","3WvD5PIWmJilHbYXtU5lp3",TRUE,146477,
-"2XSrt1dcuOXPgl3B4bxmBz",12,"Carrollton","2XSrt1dcuOXPgl3B4bxmBz",TRUE,203897,
-"6I4vc5AVonWcY87fVVZhM5",13,"Fuck the Industry","6I4vc5AVonWcY87fVVZhM5",TRUE,235230,
-"0rUOR0B5Zyf8p8pJVifQco",14,"I No Longer Fear the Razor Guarding My Heel (IV)","0rUOR0B5Zyf8p8pJVifQco",TRUE,474157,
-"1Fy64jklSy06F9KuP4zHIs",1,"BREAKDALAW2k16","1Fy64jklSy06F9KuP4zHIs",TRUE,110395,
-"3bT8vIfhau8ktNjo7scr9X",2,"Say Cheese and Die","3bT8vIfhau8ktNjo7scr9X",TRUE,161750,
-"3pNd8RaOWdwP5ZC841Tgav",3,"Eclipse","3pNd8RaOWdwP5ZC841Tgav",TRUE,127921,
-"5mQafLrkmoPk7vQ6EPKrNl",4,"Chariot of Fire","5mQafLrkmoPk7vQ6EPKrNl",TRUE,130977,
-"3n0ntM8XGeF5FxqeDKxEbc",5,"I Want to Believe","3n0ntM8XGeF5FxqeDKxEbc",TRUE,82259,
-"0U8YtUWTQu79hBYjixcjfe",6,"Uglier","0U8YtUWTQu79hBYjixcjfe",TRUE,158302,
-"7ARCUwIiTuk1vR3pxYaceV",7,"Water $Uicide","7ARCUwIiTuk1vR3pxYaceV",TRUE,153652,
-"4Ms7qbUrVk970wEaAOS9z1",8,"Elysian Fields","4Ms7qbUrVk970wEaAOS9z1",TRUE,153652,
-"0Q0TIm49cn8sYELi3TWE8w",9,"275 $Uicide","0Q0TIm49cn8sYELi3TWE8w",TRUE,129253,
-"3SOHz2umEvIXEgsgEtZzij",10,"Lucky Me","3SOHz2umEvIXEgsgEtZzij",TRUE,106213,
-"06yk1fyRXpqmj3B9eAbqCQ",11,"It's Hard to Win When You Always Lose","06yk1fyRXpqmj3B9eAbqCQ",TRUE,86021,
-"0cQvicmQo8syJ2Zv8aYDfN",12,"O Pana!","0cQvicmQo8syJ2Zv8aYDfN",TRUE,128417,
-"4D8NOZVCNZBfXNO8VZ3PXM",13,"Ultimate $Uicide","4D8NOZVCNZBfXNO8VZ3PXM",TRUE,170840,
-"5XKQclAoUvvfqpFEM0gBh7",14,"Leave Your Things Behind II","5XKQclAoUvvfqpFEM0gBh7",TRUE,167026,
-"1hSBVYwG0UPeou0ORftrxm",1,"Do You Believe in God?","1hSBVYwG0UPeou0ORftrxm",TRUE,118073,
-"4ITKXtvVKlf8yrzGvaFa3r",2,"A Girl Named Drool and a Pack of Kools","4ITKXtvVKlf8yrzGvaFa3r",TRUE,174550,
-"4ht56CLcGZxPgSlHkiFhOl",3,"The Sacred","4ht56CLcGZxPgSlHkiFhOl",TRUE,128052,
-"6myVvJ8nLSd66cWOpIBYsC",4,"Chevrolet - Pimpalicious Candy Cane Mane '74 REMIX","6myVvJ8nLSd66cWOpIBYsC",TRUE,96052,
-"3kubJl729HTskYc8W1hNJ7",5,"Aokigahara","3kubJl729HTskYc8W1hNJ7",TRUE,128052,
-"6r2aAQKIRtvubmG2cuNhtG",6,"Resin","6r2aAQKIRtvubmG2cuNhtG",TRUE,139154,
-"0ylkuL2nlEhtVseNZ2rUGF",7,"The Nail to the Cross","0ylkuL2nlEhtVseNZ2rUGF",TRUE,192052,
-"1YZXibR9LtH4UWi707DTaJ",1,"Paper Bag Mask","1YZXibR9LtH4UWi707DTaJ",TRUE,160052,
-"1GIhxG5uedQGWlMIMqz8xu",2,"Cherry P.I.E.","1GIhxG5uedQGWlMIMqz8xu",TRUE,131683,
-"40Inwmw4w16gG9EaRh6i9z",3,"Praisethedevil","40Inwmw4w16gG9EaRh6i9z",TRUE,107781,
-"6PmmrATWzzaBfE5RwyBPA1",4,"Jeffer Drive","6PmmrATWzzaBfE5RwyBPA1",TRUE,111176,
-"23fF9E89dWW5ZnmRfsB5Kb",5,"Am/Pm","23fF9E89dWW5ZnmRfsB5Kb",TRUE,124865,
-"4refAxNH9Js3qUz4RYR2cG",6,"Jon Voight (Live Fast, Die Young)","4refAxNH9Js3qUz4RYR2cG",TRUE,67030,
-"1czMCKdpD1GCifCnk5JPJt",7,"Marlboros & White Widow","1czMCKdpD1GCifCnk5JPJt",TRUE,181576,
-"11NMNcJsujIZlMbRzqMHn4",8,"Golden Calf","11NMNcJsujIZlMbRzqMHn4",TRUE,211826,
-"3xc0nDKxmuRXX4Ft4Mbtcy",9,"Aite, Bet.","3xc0nDKxmuRXX4Ft4Mbtcy",TRUE,124865,
-"65APjJmwAiUkCiK5tc1e9T",10,"Grayscale","65APjJmwAiUkCiK5tc1e9T",TRUE,214230,
-"1Hs7kaqR19n681bs3GdpK4",11,"Novus Ordo Seclorum","1Hs7kaqR19n681bs3GdpK4",TRUE,96052,
-"6tO5bxNnMuh1c3cziSpecA",1,"Paris","6tO5bxNnMuh1c3cziSpecA",TRUE,111020,
-"1WHWm19rw4dexRbqYyWTn7",2,"Converting...","1WHWm19rw4dexRbqYyWTn7",TRUE,86177,
-"2nzjXDv6OuRHrHKhfhfB98",3,"Low Key","2nzjXDv6OuRHrHKhfhfB98",TRUE,122331,
-"03uLDhG7ShNPn5dg7h3bQP",4,"Gutting Catfish","03uLDhG7ShNPn5dg7h3bQP",TRUE,124499,
-"77Q5o4DB0VAqbvGvVRmnbO",5,"I Think I'm Ian Read","77Q5o4DB0VAqbvGvVRmnbO",TRUE,142288,
-"5GD5hTSqc8SOQT7lJep4EI",6,"Evolution (Pretty Good Movie / Pretty Good Theory)","5GD5hTSqc8SOQT7lJep4EI",TRUE,129671,
-"4jrdV7fS8NlbWmjnSUvUFk",7,"Underwater Malibu","4jrdV7fS8NlbWmjnSUvUFk",TRUE,118282,
-"2Wan5w82LdnUmHeLLV2kIp",8,"Dejection","2Wan5w82LdnUmHeLLV2kIp",TRUE,138056,
-"4sfU3fHuqVW1vbiRjokDt1",9,"To Have and Have Not","4sfU3fHuqVW1vbiRjokDt1",TRUE,123376,
-"6kuMbaC4R7buDAlQgqnkRX",10,"Can of Worms","6kuMbaC4R7buDAlQgqnkRX",TRUE,111490,
-"5PdKGyZYYpWU01XWco6KNs",1,"Vincent Van Gogh Ain't Got Shit on Me","5PdKGyZYYpWU01XWco6KNs",TRUE,134582,
-"1UQuwuNphXowLwMfYbIXLd",2,"Reign in Blood","1UQuwuNphXowLwMfYbIXLd",TRUE,173035,
-"51BXV7NBGHYgGf07zUXLYZ",3,"Shattered Amethyst","51BXV7NBGHYgGf07zUXLYZ",TRUE,126873,
-"4O8z6dm06ts56BK2dq6MiF",4,"Fold","4O8z6dm06ts56BK2dq6MiF",TRUE,164490,
-"3eubsDS0MExEPSDDXm0X6v",5,"Tulane","3eubsDS0MExEPSDDXm0X6v",TRUE,108855,
-"5IQqywHZreRjhqQPFjLzf9",6,"Cherish the Dead","5IQqywHZreRjhqQPFjLzf9",TRUE,119164,
-"6R6zXlUECcf2Jo6nFkA9TO",7,"Opal Ring","6R6zXlUECcf2Jo6nFkA9TO",TRUE,120186,
-"4JnpbIUaZWRLsv0iK2svlz",8,"T.R.U. (Totally Rotten Underground)","4JnpbIUaZWRLsv0iK2svlz",TRUE,127523,
-"1EqjTkvG9pFY31Py6dINPH",9,"Whoa, I'm Woeful","1EqjTkvG9pFY31Py6dINPH",TRUE,157709,
-"68cbNjN7qdXn5NX4epYwvR",10,"A Death in the Ocean Would Be Beautiful","68cbNjN7qdXn5NX4epYwvR",TRUE,118236,
-"0XfsT6rbC7myipngFhWa9T",11,"Fuckthepopulation","0XfsT6rbC7myipngFhWa9T",TRUE,150186,
-"0kEZlJh4mK1QRfb3CT5LPk",12,"Kill Yourself (Part III)","0kEZlJh4mK1QRfb3CT5LPk",TRUE,145078,
-"6y0POdhjdA3S8WCWCINCW8",13,"Iron Veil","6y0POdhjdA3S8WCWCINCW8",TRUE,116749,
-"69Z09nI41T3HPRYWWXbFKQ",1,"Black Beard","69Z09nI41T3HPRYWWXbFKQ",TRUE,158638,
-"5PLILBXieEc6WngpCNoMgz",2,"Broke(n)","5PLILBXieEc6WngpCNoMgz",TRUE,133375,
-"4Kx2DFo4SA6sQJN30L814M",3,"The Crescent Moon and the Rising Sun","4Kx2DFo4SA6sQJN30L814M",TRUE,147400,
-"0qCxKfqWpeCzwQ8AP4sVbR",4,"Everest","0qCxKfqWpeCzwQ8AP4sVbR",TRUE,124366,
-"3O1oL3VzQP60lmFFbuhv6z",5,"Let 'Em Burn","3O1oL3VzQP60lmFFbuhv6z",TRUE,113127,
-"3iArcry5ZQn9Q4CSFuyTOz",6,"Second Coming","3iArcry5ZQn9Q4CSFuyTOz",TRUE,104211,
-"3G2UEL40WRcxHcOSHsF4sn",7,"Oracle","3G2UEL40WRcxHcOSHsF4sn",TRUE,110341,
-"4PYYfhYIP7TyzxeMU4xvp3",1,"Diemonds","4PYYfhYIP7TyzxeMU4xvp3",TRUE,192168,
-"3qDbBtbRv6eBls6q51pAL7",2,"Ugly","3qDbBtbRv6eBls6q51pAL7",TRUE,155016,
-"496GZe7MxLloHgUQTmY2Ch",3,"$Outh $Ide $Uicide","496GZe7MxLloHgUQTmY2Ch",TRUE,169319,
-"5vyR3lTiw4zz8B4PvnAO4c",4,"Mount Sinai","5vyR3lTiw4zz8B4PvnAO4c",TRUE,145635,
-"3Zz4S3UxLEcbEf4UWRucn5",5,"Lincoln Continental Memorial","3Zz4S3UxLEcbEf4UWRucn5",TRUE,183437,
-"6z6W7S93PQsoe6xB4BIgyy",6,"Mannequins Are My Best of Friends","6z6W7S93PQsoe6xB4BIgyy",TRUE,116099,
-"1U89CplPp1MQoHkhMwe557",7,"Sunshine","1U89CplPp1MQoHkhMwe557",TRUE,116935,
-"4d1DmGcWchqKtrlR7wuNd9",8,"Rotten and Paralyzed in a Tropical Paradise","4d1DmGcWchqKtrlR7wuNd9",TRUE,151579,
-"70CCioRtqD5OCE0BIfi6f4",9,"Fake Pontchartrain","70CCioRtqD5OCE0BIfi6f4",TRUE,195233,
-"1EkGymegVqvUNUJyvS2hcK",10,"Exodus","1EkGymegVqvUNUJyvS2hcK",TRUE,126223,
-"7uNY8JfzcHEUQd3xPolkrw",1,"I Miss My Dead Friends","7uNY8JfzcHEUQd3xPolkrw",TRUE,106904,
-"3oNRChArlLyUgyidv4cfd4",2,"That Time We Went to Wal Mart in Memphis to Steal Some Shit Before We Met up with ta to Shoot His Video","3oNRChArlLyUgyidv4cfd4",TRUE,135511,
-"6GB3N6bDucdHThFVDCBcCv",3,"Lte","6GB3N6bDucdHThFVDCBcCv",TRUE,133746,
-"7zOIzXpbnCcx6iZfvOjGCQ",4,"Gloss of Blood","7zOIzXpbnCcx6iZfvOjGCQ",TRUE,104211,
-"6bqkp3XMw9BUvIrr9EwMWP",5,"La Croix","6bqkp3XMw9BUvIrr9EwMWP",TRUE,130589,
-"4G2jTIuq86p1Udy1UoWSt4",6,"All My Life I've Wanted a Chevy","4G2jTIuq86p1Udy1UoWSt4",TRUE,110155,
-"0h6E24CKR8mFQJfzWgp5Es",7,"I Ended up Driving the Camaro off the Causeway Bridge","0h6E24CKR8mFQJfzWgp5Es",TRUE,135325,
-"4vsN08kVOvEmgdvq177qlu",8,"April Mourning","4vsN08kVOvEmgdvq177qlu",TRUE,88793,
-"5xjjbACSDUzWIfkzMlAphz",9,"Cerberus","5xjjbACSDUzWIfkzMlAphz",TRUE,206471,
-"0nIPTyqgGbqgFZ6CHJQamD",10,"In Order to Cast a Shadow You Must First Light a Fire","0nIPTyqgGbqgFZ6CHJQamD",TRUE,118328,
-"13959KzRbP49BJu9osgkvH",11,"Handzum $Uicide","13959KzRbP49BJu9osgkvH",TRUE,154644,
-"1cc1QPB6ybcQ72OSD8tjb4",12,"Sold My Soul to Satan Waiting in Line at the Mall","1cc1QPB6ybcQ72OSD8tjb4",TRUE,138576,
-"6vL9xspTNjcUZISn3SfuJ1",13,"Fuck Boy Blood Bath","6vL9xspTNjcUZISn3SfuJ1",TRUE,120186,
-"5vamLq20Q17oMMeHfpBEWY",1,"7th or St. Tammany","5vamLq20Q17oMMeHfpBEWY",TRUE,63715,
-"00UDmkyejOcUApEqpiB90i",2,"Dead Batteries","00UDmkyejOcUApEqpiB90i",TRUE,143220,
-"0CWAGVTew8gSMETaYRiOIh",3,"I'll Pay for It (If I Want It)","0CWAGVTew8gSMETaYRiOIh",TRUE,158824,
-"2PpaL147Q142eiaPtjTRu2",4,"That's Very Minimalist of You","2PpaL147Q142eiaPtjTRu2",TRUE,106811,
-"3zwFuntMEBGil74muCDDHu",5,"Romulus","3zwFuntMEBGil74muCDDHu",TRUE,122229,
-"3zevRz7rXVqoGpQVtcx2pG",6,"Vices","3zevRz7rXVqoGpQVtcx2pG",TRUE,247989,
-"40rmPKTvjHmgV5tBws8PF2",7,"Straw Chairs","40rmPKTvjHmgV5tBws8PF2",TRUE,98173,
-"3umGi1vU2DKmgNPwcSzTgZ",8,"40 Oz. & Sober","3umGi1vU2DKmgNPwcSzTgZ",TRUE,180186,
-"4OiSO4RZwrDE4THvfhyRPG",9,"Drugs/Hoes/Money/Etc.","4OiSO4RZwrDE4THvfhyRPG",TRUE,144242,
-"5I3yAcm3seK0djgxCIUB1f",10,"St. Bernard","5I3yAcm3seK0djgxCIUB1f",TRUE,92694,
-"0aufCKnp6HJIhRIC5L2Fg3",11,"Leave Your Things Behind","0aufCKnp6HJIhRIC5L2Fg3",TRUE,160217,
-"1hL3kD8Ab2erZ1s4joZQPi",12,"Rag Round My Skull","1hL3kD8Ab2erZ1s4joZQPi",TRUE,141827,
-"3IlEaRY4N9SCg9v9VJ1CYn",1,"Free Gucci","3IlEaRY4N9SCg9v9VJ1CYn",TRUE,172477,
-"2xlbU9gRBaBwSDGNhsM6oF",2,"Chilly Gentilly","2xlbU9gRBaBwSDGNhsM6oF",TRUE,180001,
-"0qXl0fuQ4CQ7GUmA7CPKe2",3,"Weightoven","0qXl0fuQ4CQ7GUmA7CPKe2",TRUE,152230,
-"7iYyCjeTlt68QmWdbGexJw",4,"It's About a 6 Hour Drive","7iYyCjeTlt68QmWdbGexJw",TRUE,201084,
-"3kiZ8cunUYbAldaVxQoKNA",5,"Ruby Is Finally Satisfied with His Verse","3kiZ8cunUYbAldaVxQoKNA",TRUE,121115,
-"5yk3KALSi2BRpKtL0Q56Fw",6,"Lacombe","5yk3KALSi2BRpKtL0Q56Fw",TRUE,109876,
-"5HJyKt1IuMKiv5V3ZdeMbF",7,"Who's Pills Are These? (What Bag Were They In?)","5HJyKt1IuMKiv5V3ZdeMbF",TRUE,144242,
-"0DB5hjYLs8uL9KtE0immhi",1,"#1 Stunna","0DB5hjYLs8uL9KtE0immhi",TRUE,161703,
-"2HhLK0hZu9XjUuOrOZ4D5Y",2,"Loot","2HhLK0hZu9XjUuOrOZ4D5Y",TRUE,205264,
-"1eo2xawfqkXccZTTqzrg2m",3,"Pontiac Sunfire","1eo2xawfqkXccZTTqzrg2m",TRUE,141641,
-"0xK6mxtum6akTBatRnhLEQ",4,"Magnolia","0xK6mxtum6akTBatRnhLEQ",TRUE,158824,
-"1QVePJOBJCtfsOudYrJeLq",5,"Gabapentin Getaway","1QVePJOBJCtfsOudYrJeLq",TRUE,152601,
-"6e65INz3xJ9QZ4k7a9Yqje",6,"$Hrimp Poboy","6e65INz3xJ9QZ4k7a9Yqje",TRUE,264243,
-"0NuemUW3xInX6HPN31RPxw",7,"Prettyleaf","0NuemUW3xInX6HPN31RPxw",TRUE,175449,
-"33h5bUDTKeG7d5gWjXvRZ8",8,"To Kill a Mockingbird","33h5bUDTKeG7d5gWjXvRZ8",TRUE,170248,
-"7s7q9dpsSCMEnDR3WhExZy",9,"Clouds as Witnesses","7s7q9dpsSCMEnDR3WhExZy",TRUE,153808,
-"5B7ZA9qMLMDXfov9eyWQbK",10,"Guady Pack Shawty","5B7ZA9qMLMDXfov9eyWQbK",TRUE,198577,
-"6NPDuyzOz4uKaPwWhHonrn",11,"Behold a Pale Horse","6NPDuyzOz4uKaPwWhHonrn",TRUE,144613,
-"1y8QivbbrlKYjjIgq7vwed",12,"Kill Yourself (Pt. II)","1y8QivbbrlKYjjIgq7vwed",TRUE,446101,
-"1jfQm9nM5bqF2XutbXUyw3",1,"Durango '95 (A Real Horror Show)","1jfQm9nM5bqF2XutbXUyw3",TRUE,165140,
-"2fOFpY09Dyh5FZb8m5jkA4",2,"Lemon Slime","2fOFpY09Dyh5FZb8m5jkA4",TRUE,93808,
-"0mwOMHipRaJf1PggRpOjik",3,"Smoked out, Loced Out - Part II","0mwOMHipRaJf1PggRpOjik",TRUE,273438,
-"5D04MTpf1nkIstzQDYELlH",4,"Flodgin'","5D04MTpf1nkIstzQDYELlH",TRUE,151301,
-"7zNjwnJWBWJDUchrHzhYMo",5,"Limp Wrist","7zNjwnJWBWJDUchrHzhYMo",TRUE,162168,
-"6GWnvQ2wJXFb7t5MQUIxen",6,"Sleep Walk","6GWnvQ2wJXFb7t5MQUIxen",TRUE,151672,
-"0F95rLQQMzkSbRh0mfXKnQ",7,"Torcher","0F95rLQQMzkSbRh0mfXKnQ",TRUE,106904,
+﻿"album_id","track_number","name","id","explicit","duration_ms","artist_1","artist_2","artist_3","artist_4"
+"49YpGS0rVcRLtiDvx5JQyp",1,"Sorry for the Delay","49YpGS0rVcRLtiDvx5JQyp",TRUE,172399,"$uicideboy$","Germ",NA,NA
+"5dol1hrERJOReznLRJ2VVQ",2,"BUCKHEAD","5dol1hrERJOReznLRJ2VVQ",TRUE,183919,"$uicideboy$","Germ",NA,NA
+"3QQXpvZd9qmzHZ02wDf2im",3,"I Dream of Chrome","3QQXpvZd9qmzHZ02wDf2im",TRUE,145842,"$uicideboy$","Germ",NA,NA
+"1UsvO5U72YRU8Xnq8Lp14O",4,"Champagne Face","1UsvO5U72YRU8Xnq8Lp14O",TRUE,140288,"$uicideboy$","Germ",NA,NA
+"2CkpD7gqMXrrpTCJ9TZ0bw",5,"The Serpent and the Rainbow","2CkpD7gqMXrrpTCJ9TZ0bw",TRUE,177289,"$uicideboy$","Germ",NA,NA
+"1xIibyoUvyxwoNqx8quHSz",6,"My Swisher Sweet, But My Sig Sauer","1xIibyoUvyxwoNqx8quHSz",TRUE,226932,"$uicideboy$","Germ",NA,NA
+"67IECOggWzBnCERhbOlTRp",7,"Center Core Never More","67IECOggWzBnCERhbOlTRp",TRUE,164723,"$uicideboy$","Germ",NA,NA
+"71P7pdWKILYamVOO3sBiyZ",1,"Sorry for the Delay","71P7pdWKILYamVOO3sBiyZ",FALSE,172399,"$uicideboy$","Germ",NA,NA
+"0BAC9DqH5DQJk5eSO3ob5A",2,"BUCKHEAD","0BAC9DqH5DQJk5eSO3ob5A",FALSE,183919,"$uicideboy$","Germ",NA,NA
+"06Xl8J0witMnNjGOb0xE1C",3,"I Dream of Chrome","06Xl8J0witMnNjGOb0xE1C",FALSE,145842,"$uicideboy$","Germ",NA,NA
+"7IsxuZDVhz9lAnNYigtxfd",4,"Champagne Face","7IsxuZDVhz9lAnNYigtxfd",FALSE,140288,"$uicideboy$","Germ",NA,NA
+"4TQ2pOq6WqDGRmrMW1oeY1",5,"The Serpent and the Rainbow","4TQ2pOq6WqDGRmrMW1oeY1",FALSE,177289,"$uicideboy$","Germ",NA,NA
+"2gujYACn169eiX3FTIVEMt",6,"My Swisher Sweet, But My Sig Sauer","2gujYACn169eiX3FTIVEMt",FALSE,226932,"$uicideboy$","Germ",NA,NA
+"57egtxplATgvcXEcFkVkSK",7,"Center Core Never More","57egtxplATgvcXEcFkVkSK",FALSE,163836,"$uicideboy$","Germ",NA,NA
+"2UbMJbQq6G0TJnmnubgolV",1,"Genesis","2UbMJbQq6G0TJnmnubgolV",TRUE,162138,"$uicideboy$",NA,NA,NA
+"0hPRWztAIbNkt6GcFcLiqF",2,"Matte Black","0hPRWztAIbNkt6GcFcLiqF",TRUE,238145,"$uicideboy$",NA,NA,NA
+"2gkVweydDn7MmHmqXAlEzk",3,"Fucking Your Culture","2gkVweydDn7MmHmqXAlEzk",TRUE,195994,"$uicideboy$",NA,NA,NA
+"09riz9pAPJyYYDVynE5xxY",4,"1000 Blunts","09riz9pAPJyYYDVynE5xxY",TRUE,175476,"$uicideboy$",NA,NA,NA
+"1TnfJHuRolxBBbweTa3qby",5,"In Constant Sorrow","1TnfJHuRolxBBbweTa3qby",TRUE,158516,"$uicideboy$",NA,NA,NA
+"12SqxMqtStXppn5fjDYr45",6,"Escape From BABYLON","12SqxMqtStXppn5fjDYr45",TRUE,141043,"$uicideboy$",NA,NA,NA
+"0GX0o6zfRAE50vvFoQQIph",7,"Ashes of Luxury","0GX0o6zfRAE50vvFoQQIph",TRUE,97300,"$uicideboy$",NA,NA,NA
+"0dKrkVDKJZHI787AaxmgQ0",8,"Resistance Is Useless","0dKrkVDKJZHI787AaxmgQ0",TRUE,142668,"$uicideboy$",NA,NA,NA
+"5yshqP8Dvk7JmHeJ5BiLyP",9,"Eulogy","5yshqP8Dvk7JmHeJ5BiLyP",TRUE,227505,"$uicideboy$",NA,NA,NA
+"3wGT3OycqbsHFjIKMZ8EEq",10,"No Matter Which Direction I'm Going In, I Never Chase These Hoes","3wGT3OycqbsHFjIKMZ8EEq",TRUE,154915,"$uicideboy$",NA,NA,NA
+"6LoaYlv0bC1TyctuADqNFh",11,"$uicideboy$ Were Better In 2015","6LoaYlv0bC1TyctuADqNFh",TRUE,143346,"$uicideboy$",NA,NA,NA
+"6zmOzxSclGHqbmgkjYdBdl",12,"Unlucky Me","6zmOzxSclGHqbmgkjYdBdl",TRUE,155673,"$uicideboy$",NA,NA,NA
+"5diz02QLFSmDur9R9M6bcD",13,"THE_EVIL_THAT_MEN_DO","5diz02QLFSmDur9R9M6bcD",TRUE,173372,"$uicideboy$",NA,NA,NA
+"6nF0rvUwrAC6hGzyl0CMNs",1,"Genesis","6nF0rvUwrAC6hGzyl0CMNs",FALSE,162138,"$uicideboy$",NA,NA,NA
+"3TCYRzQ9YVI3gsgx0ymabj",2,"Matte Black","3TCYRzQ9YVI3gsgx0ymabj",FALSE,238145,"$uicideboy$",NA,NA,NA
+"1DW6mNdUNcdkLQbHmUVcGr",3,"Fucking Your Culture","1DW6mNdUNcdkLQbHmUVcGr",FALSE,195994,"$uicideboy$",NA,NA,NA
+"6v4OiUGljz7DWl1fcqs7aj",4,"1000 Blunts","6v4OiUGljz7DWl1fcqs7aj",FALSE,175476,"$uicideboy$",NA,NA,NA
+"1QmkdwULYI0kqOMggAFKpP",5,"In Constant Sorrow","1QmkdwULYI0kqOMggAFKpP",FALSE,158516,"$uicideboy$",NA,NA,NA
+"7yltH5UxM0BExPv9hnYdiV",6,"Escape from Babylon","7yltH5UxM0BExPv9hnYdiV",FALSE,142346,"$uicideboy$",NA,NA,NA
+"42ZYHBa6QWbzRMCH9h9cDW",7,"Ashes of Luxury","42ZYHBa6QWbzRMCH9h9cDW",FALSE,97300,"$uicideboy$",NA,NA,NA
+"7Bt2kvCTyIofCvAjEgQXWb",8,"Resistance is Useless","7Bt2kvCTyIofCvAjEgQXWb",FALSE,156289,"$uicideboy$",NA,NA,NA
+"06wakhxgzpxDG2kkXpCkoN",9,"Eulogy","06wakhxgzpxDG2kkXpCkoN",FALSE,227505,"$uicideboy$",NA,NA,NA
+"5VJkJOojJng9WdEYeCTo2q",10,"No Matter Which Direction I'm Going in, I Never Chase These Hoes","5VJkJOojJng9WdEYeCTo2q",FALSE,154915,"$uicideboy$",NA,NA,NA
+"5RwLDtX6PT2TWDA88CSdvs",11,"$uicideboy$ Were Better in 2015","5RwLDtX6PT2TWDA88CSdvs",FALSE,143346,"$uicideboy$",NA,NA,NA
+"1fmSYaIT0TQKFN3hnJAIpC",12,"Unlucky Me","1fmSYaIT0TQKFN3hnJAIpC",FALSE,155673,"$uicideboy$",NA,NA,NA
+"5TdcPrfEpoQmWJyeFpc1bF",13,"THE_EVIL_THAT_MEN_DO","5TdcPrfEpoQmWJyeFpc1bF",FALSE,172845,"$uicideboy$",NA,NA,NA
+"3sUS7AZuOA4KKxqNJLmrM2",1,"Degeneration in the Key of A Minor","3sUS7AZuOA4KKxqNJLmrM2",TRUE,128000,"$uicideboy$",NA,NA,NA
+"5ikjIVLHoBrgaZ0zNrn6Ty",2,"If Self-Destruction Was an Olympic Event, I’d Be Tonya Harding","5ikjIVLHoBrgaZ0zNrn6Ty",TRUE,142707,"$uicideboy$",NA,NA,NA
+"5wRSnumY0x8O47QuxgqwhR",3,"Life Is but a Stream~","5wRSnumY0x8O47QuxgqwhR",TRUE,122880,"$uicideboy$",NA,NA,NA
+"1RSjxBz03F6vEqoHT9jWBa",4,"5 Grand at 8 to 1","1RSjxBz03F6vEqoHT9jWBa",TRUE,169565,"$uicideboy$",NA,NA,NA
+"53SiIWzvx7vKzLmAHrZwog",5,"WE ENVY NOTHING IN THE WORLD.","53SiIWzvx7vKzLmAHrZwog",TRUE,171428,"$uicideboy$",NA,NA,NA
+"0nWHCNMGj7oDC1YED1tHoL",6,"Lighting the Flames of My Own Personal Hell","0nWHCNMGj7oDC1YED1tHoL",TRUE,110163,"$uicideboy$",NA,NA,NA
+"0oGakZG2y3wcgHDF1YWPGD",7,"New Profile Pic","0oGakZG2y3wcgHDF1YWPGD",TRUE,127768,"$uicideboy$",NA,NA,NA
+"5C33XaYYMuEKvGmABGHwOa",8,"Bleach","5C33XaYYMuEKvGmABGHwOa",TRUE,160240,"$uicideboy$",NA,NA,NA
+"6DtlH2Ax805sJmaty5mtfK",9,"Forget It","6DtlH2Ax805sJmaty5mtfK",TRUE,198983,"$uicideboy$",NA,NA,NA
+"19n8izXThARSuQAXrOKNbO",10,"Avalon","19n8izXThARSuQAXrOKNbO",TRUE,140858,"$uicideboy$",NA,NA,NA
+"5xrH7dVah85mTEr4jgT1mu",11,"Materialism as a Means to an End","5xrH7dVah85mTEr4jgT1mu",TRUE,166250,"$uicideboy$",NA,NA,NA
+"2Q9nA56DKKJhj4cHMbHlAS",12,"Ugliest","2Q9nA56DKKJhj4cHMbHlAS",TRUE,178131,"$uicideboy$",NA,NA,NA
+"4gAtj23mqTx5pjfkzVaXhh",13,"The Number You Have Dialed Is Not in Service","4gAtj23mqTx5pjfkzVaXhh",TRUE,165970,"$uicideboy$",NA,NA,NA
+"1TleUKjPsKxUYwpT3mvPh2",1,"Degeneration in the Key of A Minor","1TleUKjPsKxUYwpT3mvPh2",FALSE,128000,"$uicideboy$",NA,NA,NA
+"73E91WqIBGyeRgpW0YpI0G",2,"If Self-Destruction Was an Olympic Event, I'd Be Tonya Harding","73E91WqIBGyeRgpW0YpI0G",FALSE,142707,"$uicideboy$",NA,NA,NA
+"0voXvVKVHZckJdLo1p9yG6",3,"Life is but a Stream~","0voXvVKVHZckJdLo1p9yG6",FALSE,122880,"$uicideboy$",NA,NA,NA
+"5Lc0LKibgVJcbDvM6o1g6n",4,"5 Grand at 8 to 1","5Lc0LKibgVJcbDvM6o1g6n",FALSE,169565,"$uicideboy$",NA,NA,NA
+"5MmzyTFUZJ7RXh8FmRnlku",5,"WE ENVY NOTHING IN THE WORLD.","5MmzyTFUZJ7RXh8FmRnlku",FALSE,171936,"$uicideboy$",NA,NA,NA
+"78IVmIVNjgxlgynM2GyTlo",6,"Lighting the Flames of My Own Personal Hell","78IVmIVNjgxlgynM2GyTlo",FALSE,110163,"$uicideboy$",NA,NA,NA
+"57XbwjcmMagETvebRm0lsj",7,"New Profile Pic","57XbwjcmMagETvebRm0lsj",FALSE,127768,"$uicideboy$",NA,NA,NA
+"5YjlLI8xawIXacubkU1pNJ",8,"Bleach","5YjlLI8xawIXacubkU1pNJ",FALSE,160240,"$uicideboy$",NA,NA,NA
+"4dnEHppsr6i1iZU1tA2ZQ6",9,"Forget It","4dnEHppsr6i1iZU1tA2ZQ6",FALSE,198983,"$uicideboy$",NA,NA,NA
+"2PIqCvJ4cvQv924k2iyiQ5",10,"Avalon","2PIqCvJ4cvQv924k2iyiQ5",FALSE,140858,"$uicideboy$",NA,NA,NA
+"7BOJaY2TkNQC4lS6PUTabm",11,"Materialism as a Means to an End","7BOJaY2TkNQC4lS6PUTabm",FALSE,166250,"$uicideboy$",NA,NA,NA
+"0Mo0f5FxAGVAlHlCGJocLH",12,"Ugliest","0Mo0f5FxAGVAlHlCGJocLH",FALSE,178131,"$uicideboy$",NA,NA,NA
+"1RehUirIVkaPNpydVHFFc5",13,"The Number You Have Dialed is Not in Service","1RehUirIVkaPNpydVHFFc5",FALSE,166007,"$uicideboy$",NA,NA,NA
+"1DoBPOlB884EHiftB46QGx",1,"All Dogs Go to Heaven","1DoBPOlB884EHiftB46QGx",TRUE,153652,"$uicideboy$",NA,NA,NA
+"2kwGrUme2JTUvF5Zf91Ocj",2,"I Wanna Be Romanticized","2kwGrUme2JTUvF5Zf91Ocj",TRUE,133746,"$uicideboy$",NA,NA,NA
+"5pVZABS2GkOJf7adB3b2al",3,"One Last Look at the Damage","5pVZABS2GkOJf7adB3b2al",TRUE,97671,"$uicideboy$",NA,NA,NA
+"1S4MM1ukLm3ourrBJGHniC",4,"[whispers Indistinctly]","1S4MM1ukLm3ourrBJGHniC",TRUE,164623,"$uicideboy$",NA,NA,NA
+"0TtvdE2beN4abriNlNBlpJ",5,"Mega Zeph","0TtvdE2beN4abriNlNBlpJ",TRUE,101799,"$uicideboy$",NA,NA,NA
+"4x3vJJYSW9fZWIubv5mmww",6,"Putrid Pride","4x3vJJYSW9fZWIubv5mmww",TRUE,106971,"$uicideboy$",NA,NA,NA
+"3xQq3mpD6hunD2XG7FXHHu",7,"That Just Isn't Empirically Possible","3xQq3mpD6hunD2XG7FXHHu",TRUE,123902,"$uicideboy$",NA,NA,NA
+"29iepR0ydOuYFaZp8um6H8",8,"What the Fuck is Happening","29iepR0ydOuYFaZp8um6H8",TRUE,106340,"$uicideboy$",NA,NA,NA
+"3wYnfIWrBYOHx9MR3EcJzu",9,"Bizarro","3wYnfIWrBYOHx9MR3EcJzu",TRUE,214360,"$uicideboy$",NA,NA,NA
+"4RP6oacRQpBRFCSU8ErhUk",10,"Scope Set","4RP6oacRQpBRFCSU8ErhUk",TRUE,93422,"$uicideboy$",NA,NA,NA
+"5LYjGMfcITu0nse2enQFPL",11,"Fuck Your Culture","5LYjGMfcITu0nse2enQFPL",TRUE,102060,"$uicideboy$",NA,NA,NA
+"30QR0ndUdiiMQMA9g1PGCm",12,"...And to Those I Love, Thanks for Sticking Around","30QR0ndUdiiMQMA9g1PGCm",TRUE,168489,"$uicideboy$",NA,NA,NA
+"6cpslq4nypOt9NhLPIwY6c",1,"King Tulip","6cpslq4nypOt9NhLPIwY6c",TRUE,185217,"$uicideboy$",NA,NA,NA
+"3rP8RCgsXY9mJg3dDwBZDU",2,"Bring out Your Dead","3rP8RCgsXY9mJg3dDwBZDU",TRUE,106040,"$uicideboy$",NA,NA,NA
+"2qXOuks93SBqKbQofW208w",3,"Nicotine Patches","2qXOuks93SBqKbQofW208w",TRUE,156033,"$uicideboy$",NA,NA,NA
+"1uksi19G4rvXZLJzmb0uDx",4,"10,000 Degrees","1uksi19G4rvXZLJzmb0uDx",TRUE,189108,"$uicideboy$",NA,NA,NA
+"77o41Py1xkwaxs3200SKhW",5,"122 Days","77o41Py1xkwaxs3200SKhW",TRUE,184324,"$uicideboy$",NA,NA,NA
+"1Ci1sDqan6BXP4Xssy6CbP",6,"Phanton Menace","1Ci1sDqan6BXP4Xssy6CbP",TRUE,141971,"$uicideboy$",NA,NA,NA
+"7yGX7bh3zJx4dM7ocSY4wY",7,"Krewe Du Vieux (Comedy & Tragedy)","7yGX7bh3zJx4dM7ocSY4wY",TRUE,104472,"$uicideboy$",NA,NA,NA
+"1KcmA9sVN4TpXmUjLk83B9",8,"WAR TIME ALL THE TIME","1KcmA9sVN4TpXmUjLk83B9",TRUE,145581,"$uicideboy$",NA,NA,NA
+"73hmZZ7HyLgUQj2DaybfBb",9,"Coma","73hmZZ7HyLgUQj2DaybfBb",TRUE,137772,"$uicideboy$",NA,NA,NA
+"1a6GdgTR05j7hTgKPsK3ZM",10,"Long Gone (Save Me from This Hell)","1a6GdgTR05j7hTgKPsK3ZM",TRUE,138764,"$uicideboy$",NA,NA,NA
+"3WvD5PIWmJilHbYXtU5lp3",11,"Meet Mr. NICEGUY","3WvD5PIWmJilHbYXtU5lp3",TRUE,146477,"$uicideboy$",NA,NA,NA
+"2XSrt1dcuOXPgl3B4bxmBz",12,"Carrollton","2XSrt1dcuOXPgl3B4bxmBz",TRUE,203897,"$uicideboy$",NA,NA,NA
+"6I4vc5AVonWcY87fVVZhM5",13,"Fuck the Industry","6I4vc5AVonWcY87fVVZhM5",TRUE,235230,"$uicideboy$",NA,NA,NA
+"0rUOR0B5Zyf8p8pJVifQco",14,"I No Longer Fear the Razor Guarding My Heel (IV)","0rUOR0B5Zyf8p8pJVifQco",TRUE,474157,"$uicideboy$",NA,NA,NA
+"1Fy64jklSy06F9KuP4zHIs",1,"BREAKDALAW2k16","1Fy64jklSy06F9KuP4zHIs",TRUE,110395,"$uicideboy$","Pouya",NA,NA
+"3bT8vIfhau8ktNjo7scr9X",2,"Say Cheese and Die","3bT8vIfhau8ktNjo7scr9X",TRUE,161750,"$uicideboy$",NA,NA,NA
+"3pNd8RaOWdwP5ZC841Tgav",3,"Eclipse","3pNd8RaOWdwP5ZC841Tgav",TRUE,127921,"$uicideboy$",NA,NA,NA
+"5mQafLrkmoPk7vQ6EPKrNl",4,"Chariot of Fire","5mQafLrkmoPk7vQ6EPKrNl",TRUE,130977,"$uicideboy$",NA,NA,NA
+"3n0ntM8XGeF5FxqeDKxEbc",5,"I Want to Believe","3n0ntM8XGeF5FxqeDKxEbc",TRUE,82259,"$uicideboy$",NA,NA,NA
+"0U8YtUWTQu79hBYjixcjfe",6,"Uglier","0U8YtUWTQu79hBYjixcjfe",TRUE,158302,"$uicideboy$",NA,NA,NA
+"7ARCUwIiTuk1vR3pxYaceV",7,"Water $Uicide","7ARCUwIiTuk1vR3pxYaceV",TRUE,153652,"$uicideboy$","Chris Travis",NA,NA
+"4Ms7qbUrVk970wEaAOS9z1",8,"Elysian Fields","4Ms7qbUrVk970wEaAOS9z1",TRUE,153652,"$uicideboy$",NA,NA,NA
+"0Q0TIm49cn8sYELi3TWE8w",9,"275 $Uicide","0Q0TIm49cn8sYELi3TWE8w",TRUE,129253,"$uicideboy$",NA,NA,NA
+"3SOHz2umEvIXEgsgEtZzij",10,"Lucky Me","3SOHz2umEvIXEgsgEtZzij",TRUE,106213,"$uicideboy$",NA,NA,NA
+"06yk1fyRXpqmj3B9eAbqCQ",11,"It's Hard to Win When You Always Lose","06yk1fyRXpqmj3B9eAbqCQ",TRUE,86021,"$uicideboy$",NA,NA,NA
+"0cQvicmQo8syJ2Zv8aYDfN",12,"O Pana!","0cQvicmQo8syJ2Zv8aYDfN",TRUE,128417,"$uicideboy$",NA,NA,NA
+"4D8NOZVCNZBfXNO8VZ3PXM",13,"Ultimate $Uicide","4D8NOZVCNZBfXNO8VZ3PXM",TRUE,170840,"$uicideboy$","Denzel Curry",NA,NA
+"5XKQclAoUvvfqpFEM0gBh7",14,"Leave Your Things Behind II","5XKQclAoUvvfqpFEM0gBh7",TRUE,167026,"$uicideboy$",NA,NA,NA
+"1hSBVYwG0UPeou0ORftrxm",1,"Do You Believe in God?","1hSBVYwG0UPeou0ORftrxm",TRUE,118073,"$uicideboy$",NA,NA,NA
+"4ITKXtvVKlf8yrzGvaFa3r",2,"A Girl Named Drool and a Pack of Kools","4ITKXtvVKlf8yrzGvaFa3r",TRUE,174550,"$uicideboy$",NA,NA,NA
+"4ht56CLcGZxPgSlHkiFhOl",3,"The Sacred","4ht56CLcGZxPgSlHkiFhOl",TRUE,128052,"$uicideboy$",NA,NA,NA
+"6myVvJ8nLSd66cWOpIBYsC",4,"Chevrolet - Pimpalicious Candy Cane Mane '74 REMIX","6myVvJ8nLSd66cWOpIBYsC",TRUE,96052,"$uicideboy$",NA,NA,NA
+"3kubJl729HTskYc8W1hNJ7",5,"Aokigahara","3kubJl729HTskYc8W1hNJ7",TRUE,128052,"$uicideboy$",NA,NA,NA
+"6r2aAQKIRtvubmG2cuNhtG",6,"Resin","6r2aAQKIRtvubmG2cuNhtG",TRUE,139154,"$uicideboy$",NA,NA,NA
+"0ylkuL2nlEhtVseNZ2rUGF",7,"The Nail to the Cross","0ylkuL2nlEhtVseNZ2rUGF",TRUE,192052,"$uicideboy$",NA,NA,NA
+"1YZXibR9LtH4UWi707DTaJ",1,"Paper Bag Mask","1YZXibR9LtH4UWi707DTaJ",TRUE,160052,"$uicideboy$",NA,NA,NA
+"1GIhxG5uedQGWlMIMqz8xu",2,"Cherry P.I.E.","1GIhxG5uedQGWlMIMqz8xu",TRUE,131683,"$uicideboy$",NA,NA,NA
+"40Inwmw4w16gG9EaRh6i9z",3,"Praisethedevil","40Inwmw4w16gG9EaRh6i9z",TRUE,107781,"$uicideboy$",NA,NA,NA
+"6PmmrATWzzaBfE5RwyBPA1",4,"Jeffer Drive","6PmmrATWzzaBfE5RwyBPA1",TRUE,111176,"$uicideboy$",NA,NA,NA
+"23fF9E89dWW5ZnmRfsB5Kb",5,"Am/Pm","23fF9E89dWW5ZnmRfsB5Kb",TRUE,124865,"$uicideboy$",NA,NA,NA
+"4refAxNH9Js3qUz4RYR2cG",6,"Jon Voight (Live Fast, Die Young)","4refAxNH9Js3qUz4RYR2cG",TRUE,67030,"$uicideboy$",NA,NA,NA
+"1czMCKdpD1GCifCnk5JPJt",7,"Marlboros & White Widow","1czMCKdpD1GCifCnk5JPJt",TRUE,181576,"$uicideboy$","Germ",NA,NA
+"11NMNcJsujIZlMbRzqMHn4",8,"Golden Calf","11NMNcJsujIZlMbRzqMHn4",TRUE,211826,"$uicideboy$","Eddy Baker","Fat Nick",NA
+"3xc0nDKxmuRXX4Ft4Mbtcy",9,"Aite, Bet.","3xc0nDKxmuRXX4Ft4Mbtcy",TRUE,124865,"$uicideboy$",NA,NA,NA
+"65APjJmwAiUkCiK5tc1e9T",10,"Grayscale","65APjJmwAiUkCiK5tc1e9T",TRUE,214230,"$uicideboy$","JGRXXN","Black Smurf","Ramirez"
+"1Hs7kaqR19n681bs3GdpK4",11,"Novus Ordo Seclorum","1Hs7kaqR19n681bs3GdpK4",TRUE,96052,"$uicideboy$",NA,NA,NA
+"6tO5bxNnMuh1c3cziSpecA",1,"Paris","6tO5bxNnMuh1c3cziSpecA",TRUE,111020,"$uicideboy$",NA,NA,NA
+"1WHWm19rw4dexRbqYyWTn7",2,"Converting...","1WHWm19rw4dexRbqYyWTn7",TRUE,86177,"$uicideboy$",NA,NA,NA
+"2nzjXDv6OuRHrHKhfhfB98",3,"Low Key","2nzjXDv6OuRHrHKhfhfB98",TRUE,122331,"$uicideboy$",NA,NA,NA
+"03uLDhG7ShNPn5dg7h3bQP",4,"Gutting Catfish","03uLDhG7ShNPn5dg7h3bQP",TRUE,124499,"$uicideboy$",NA,NA,NA
+"77Q5o4DB0VAqbvGvVRmnbO",5,"I Think I'm Ian Read","77Q5o4DB0VAqbvGvVRmnbO",TRUE,142288,"$uicideboy$",NA,NA,NA
+"5GD5hTSqc8SOQT7lJep4EI",6,"Evolution (Pretty Good Movie / Pretty Good Theory)","5GD5hTSqc8SOQT7lJep4EI",TRUE,129671,"$uicideboy$",NA,NA,NA
+"4jrdV7fS8NlbWmjnSUvUFk",7,"Underwater Malibu","4jrdV7fS8NlbWmjnSUvUFk",TRUE,118282,"$uicideboy$",NA,NA,NA
+"2Wan5w82LdnUmHeLLV2kIp",8,"Dejection","2Wan5w82LdnUmHeLLV2kIp",TRUE,138056,"$uicideboy$",NA,NA,NA
+"4sfU3fHuqVW1vbiRjokDt1",9,"To Have and Have Not","4sfU3fHuqVW1vbiRjokDt1",TRUE,123376,"$uicideboy$",NA,NA,NA
+"6kuMbaC4R7buDAlQgqnkRX",10,"Can of Worms","6kuMbaC4R7buDAlQgqnkRX",TRUE,111490,"$uicideboy$",NA,NA,NA
+"5PdKGyZYYpWU01XWco6KNs",1,"Vincent Van Gogh Ain't Got Shit on Me","5PdKGyZYYpWU01XWco6KNs",TRUE,134582,"$uicideboy$",NA,NA,NA
+"1UQuwuNphXowLwMfYbIXLd",2,"Reign in Blood","1UQuwuNphXowLwMfYbIXLd",TRUE,173035,"$uicideboy$",NA,NA,NA
+"51BXV7NBGHYgGf07zUXLYZ",3,"Shattered Amethyst","51BXV7NBGHYgGf07zUXLYZ",TRUE,126873,"$uicideboy$",NA,NA,NA
+"4O8z6dm06ts56BK2dq6MiF",4,"Fold","4O8z6dm06ts56BK2dq6MiF",TRUE,164490,"$uicideboy$",NA,NA,NA
+"3eubsDS0MExEPSDDXm0X6v",5,"Tulane","3eubsDS0MExEPSDDXm0X6v",TRUE,108855,"$uicideboy$",NA,NA,NA
+"5IQqywHZreRjhqQPFjLzf9",6,"Cherish the Dead","5IQqywHZreRjhqQPFjLzf9",TRUE,119164,"$uicideboy$",NA,NA,NA
+"6R6zXlUECcf2Jo6nFkA9TO",7,"Opal Ring","6R6zXlUECcf2Jo6nFkA9TO",TRUE,120186,"$uicideboy$",NA,NA,NA
+"4JnpbIUaZWRLsv0iK2svlz",8,"T.R.U. (Totally Rotten Underground)","4JnpbIUaZWRLsv0iK2svlz",TRUE,127523,"$uicideboy$",NA,NA,NA
+"1EqjTkvG9pFY31Py6dINPH",9,"Whoa, I'm Woeful","1EqjTkvG9pFY31Py6dINPH",TRUE,157709,"$uicideboy$",NA,NA,NA
+"68cbNjN7qdXn5NX4epYwvR",10,"A Death in the Ocean Would Be Beautiful","68cbNjN7qdXn5NX4epYwvR",TRUE,118236,"$uicideboy$",NA,NA,NA
+"0XfsT6rbC7myipngFhWa9T",11,"Fuckthepopulation","0XfsT6rbC7myipngFhWa9T",TRUE,150186,"$uicideboy$",NA,NA,NA
+"0kEZlJh4mK1QRfb3CT5LPk",12,"Kill Yourself (Part III)","0kEZlJh4mK1QRfb3CT5LPk",TRUE,145078,"$uicideboy$",NA,NA,NA
+"6y0POdhjdA3S8WCWCINCW8",13,"Iron Veil","6y0POdhjdA3S8WCWCINCW8",TRUE,116749,"$uicideboy$",NA,NA,NA
+"69Z09nI41T3HPRYWWXbFKQ",1,"Black Beard","69Z09nI41T3HPRYWWXbFKQ",TRUE,158638,"$uicideboy$",NA,NA,NA
+"5PLILBXieEc6WngpCNoMgz",2,"Broke(n)","5PLILBXieEc6WngpCNoMgz",TRUE,133375,"$uicideboy$",NA,NA,NA
+"4Kx2DFo4SA6sQJN30L814M",3,"The Crescent Moon and the Rising Sun","4Kx2DFo4SA6sQJN30L814M",TRUE,147400,"$uicideboy$",NA,NA,NA
+"0qCxKfqWpeCzwQ8AP4sVbR",4,"Everest","0qCxKfqWpeCzwQ8AP4sVbR",TRUE,124366,"$uicideboy$",NA,NA,NA
+"3O1oL3VzQP60lmFFbuhv6z",5,"Let 'Em Burn","3O1oL3VzQP60lmFFbuhv6z",TRUE,113127,"$uicideboy$",NA,NA,NA
+"3iArcry5ZQn9Q4CSFuyTOz",6,"Second Coming","3iArcry5ZQn9Q4CSFuyTOz",TRUE,104211,"$uicideboy$",NA,NA,NA
+"3G2UEL40WRcxHcOSHsF4sn",7,"Oracle","3G2UEL40WRcxHcOSHsF4sn",TRUE,110341,"$uicideboy$",NA,NA,NA
+"4PYYfhYIP7TyzxeMU4xvp3",1,"Diemonds","4PYYfhYIP7TyzxeMU4xvp3",TRUE,192168,"$uicideboy$",NA,NA,NA
+"3qDbBtbRv6eBls6q51pAL7",2,"Ugly","3qDbBtbRv6eBls6q51pAL7",TRUE,155016,"$uicideboy$",NA,NA,NA
+"496GZe7MxLloHgUQTmY2Ch",3,"$Outh $Ide $Uicide","496GZe7MxLloHgUQTmY2Ch",TRUE,169319,"$uicideboy$","Pouya",NA,NA
+"5vyR3lTiw4zz8B4PvnAO4c",4,"Mount Sinai","5vyR3lTiw4zz8B4PvnAO4c",TRUE,145635,"$uicideboy$",NA,NA,NA
+"3Zz4S3UxLEcbEf4UWRucn5",5,"Lincoln Continental Memorial","3Zz4S3UxLEcbEf4UWRucn5",TRUE,183437,"$uicideboy$","Slug † Christ",NA,NA
+"6z6W7S93PQsoe6xB4BIgyy",6,"Mannequins Are My Best of Friends","6z6W7S93PQsoe6xB4BIgyy",TRUE,116099,"$uicideboy$",NA,NA,NA
+"1U89CplPp1MQoHkhMwe557",7,"Sunshine","1U89CplPp1MQoHkhMwe557",TRUE,116935,"$uicideboy$",NA,NA,NA
+"4d1DmGcWchqKtrlR7wuNd9",8,"Rotten and Paralyzed in a Tropical Paradise","4d1DmGcWchqKtrlR7wuNd9",TRUE,151579,"$uicideboy$",NA,NA,NA
+"70CCioRtqD5OCE0BIfi6f4",9,"Fake Pontchartrain","70CCioRtqD5OCE0BIfi6f4",TRUE,195233,"$uicideboy$",NA,NA,NA
+"1EkGymegVqvUNUJyvS2hcK",10,"Exodus","1EkGymegVqvUNUJyvS2hcK",TRUE,126223,"$uicideboy$",NA,NA,NA
+"7uNY8JfzcHEUQd3xPolkrw",1,"I Miss My Dead Friends","7uNY8JfzcHEUQd3xPolkrw",TRUE,106904,"$uicideboy$",NA,NA,NA
+"3oNRChArlLyUgyidv4cfd4",2,"That Time We Went to Wal Mart in Memphis to Steal Some Shit Before We Met up with ta to Shoot His Video","3oNRChArlLyUgyidv4cfd4",TRUE,135511,"$uicideboy$",NA,NA,NA
+"6GB3N6bDucdHThFVDCBcCv",3,"Lte","6GB3N6bDucdHThFVDCBcCv",TRUE,133746,"$uicideboy$",NA,NA,NA
+"7zOIzXpbnCcx6iZfvOjGCQ",4,"Gloss of Blood","7zOIzXpbnCcx6iZfvOjGCQ",TRUE,104211,"$uicideboy$",NA,NA,NA
+"6bqkp3XMw9BUvIrr9EwMWP",5,"La Croix","6bqkp3XMw9BUvIrr9EwMWP",TRUE,130589,"$uicideboy$",NA,NA,NA
+"4G2jTIuq86p1Udy1UoWSt4",6,"All My Life I've Wanted a Chevy","4G2jTIuq86p1Udy1UoWSt4",TRUE,110155,"$uicideboy$",NA,NA,NA
+"0h6E24CKR8mFQJfzWgp5Es",7,"I Ended up Driving the Camaro off the Causeway Bridge","0h6E24CKR8mFQJfzWgp5Es",TRUE,135325,"$uicideboy$",NA,NA,NA
+"4vsN08kVOvEmgdvq177qlu",8,"April Mourning","4vsN08kVOvEmgdvq177qlu",TRUE,88793,"$uicideboy$",NA,NA,NA
+"5xjjbACSDUzWIfkzMlAphz",9,"Cerberus","5xjjbACSDUzWIfkzMlAphz",TRUE,206471,"$uicideboy$","Masta Drag",NA,NA
+"0nIPTyqgGbqgFZ6CHJQamD",10,"In Order to Cast a Shadow You Must First Light a Fire","0nIPTyqgGbqgFZ6CHJQamD",TRUE,118328,"$uicideboy$",NA,NA,NA
+"13959KzRbP49BJu9osgkvH",11,"Handzum $Uicide","13959KzRbP49BJu9osgkvH",TRUE,154644,"$uicideboy$","Rozz Dyliams",NA,NA
+"1cc1QPB6ybcQ72OSD8tjb4",12,"Sold My Soul to Satan Waiting in Line at the Mall","1cc1QPB6ybcQ72OSD8tjb4",TRUE,138576,"$uicideboy$",NA,NA,NA
+"6vL9xspTNjcUZISn3SfuJ1",13,"Fuck Boy Blood Bath","6vL9xspTNjcUZISn3SfuJ1",TRUE,120186,"$uicideboy$",NA,NA,NA
+"5vamLq20Q17oMMeHfpBEWY",1,"7th or St. Tammany","5vamLq20Q17oMMeHfpBEWY",TRUE,63715,"$uicideboy$",NA,NA,NA
+"00UDmkyejOcUApEqpiB90i",2,"Dead Batteries","00UDmkyejOcUApEqpiB90i",TRUE,143220,"$uicideboy$",NA,NA,NA
+"0CWAGVTew8gSMETaYRiOIh",3,"I'll Pay for It (If I Want It)","0CWAGVTew8gSMETaYRiOIh",TRUE,158824,"$uicideboy$",NA,NA,NA
+"2PpaL147Q142eiaPtjTRu2",4,"That's Very Minimalist of You","2PpaL147Q142eiaPtjTRu2",TRUE,106811,"$uicideboy$",NA,NA,NA
+"3zwFuntMEBGil74muCDDHu",5,"Romulus","3zwFuntMEBGil74muCDDHu",TRUE,122229,"$uicideboy$",NA,NA,NA
+"3zevRz7rXVqoGpQVtcx2pG",6,"Vices","3zevRz7rXVqoGpQVtcx2pG",TRUE,247989,"$uicideboy$","JGRXXN",NA,NA
+"40rmPKTvjHmgV5tBws8PF2",7,"Straw Chairs","40rmPKTvjHmgV5tBws8PF2",TRUE,98173,"$uicideboy$",NA,NA,NA
+"3umGi1vU2DKmgNPwcSzTgZ",8,"40 Oz. & Sober","3umGi1vU2DKmgNPwcSzTgZ",TRUE,180186,"$uicideboy$",NA,NA,NA
+"4OiSO4RZwrDE4THvfhyRPG",9,"Drugs/Hoes/Money/Etc.","4OiSO4RZwrDE4THvfhyRPG",TRUE,144242,"$uicideboy$",NA,NA,NA
+"5I3yAcm3seK0djgxCIUB1f",10,"St. Bernard","5I3yAcm3seK0djgxCIUB1f",TRUE,92694,"$uicideboy$",NA,NA,NA
+"0aufCKnp6HJIhRIC5L2Fg3",11,"Leave Your Things Behind","0aufCKnp6HJIhRIC5L2Fg3",TRUE,160217,"$uicideboy$",NA,NA,NA
+"1hL3kD8Ab2erZ1s4joZQPi",12,"Rag Round My Skull","1hL3kD8Ab2erZ1s4joZQPi",TRUE,141827,"$uicideboy$",NA,NA,NA
+"3IlEaRY4N9SCg9v9VJ1CYn",1,"Free Gucci","3IlEaRY4N9SCg9v9VJ1CYn",TRUE,172477,"$uicideboy$","Black Smurf",NA,NA
+"2xlbU9gRBaBwSDGNhsM6oF",2,"Chilly Gentilly","2xlbU9gRBaBwSDGNhsM6oF",TRUE,180001,"$uicideboy$","Black Smurf",NA,NA
+"0qXl0fuQ4CQ7GUmA7CPKe2",3,"Weightoven","0qXl0fuQ4CQ7GUmA7CPKe2",TRUE,152230,"$uicideboy$","Black Smurf",NA,NA
+"7iYyCjeTlt68QmWdbGexJw",4,"It's About a 6 Hour Drive","7iYyCjeTlt68QmWdbGexJw",TRUE,201084,"$uicideboy$","Black Smurf",NA,NA
+"3kiZ8cunUYbAldaVxQoKNA",5,"Ruby Is Finally Satisfied with His Verse","3kiZ8cunUYbAldaVxQoKNA",TRUE,121115,"$uicideboy$","Black Smurf",NA,NA
+"5yk3KALSi2BRpKtL0Q56Fw",6,"Lacombe","5yk3KALSi2BRpKtL0Q56Fw",TRUE,109876,"$uicideboy$","Black Smurf",NA,NA
+"5HJyKt1IuMKiv5V3ZdeMbF",7,"Who's Pills Are These? (What Bag Were They In?)","5HJyKt1IuMKiv5V3ZdeMbF",TRUE,144242,"$uicideboy$","Black Smurf",NA,NA
+"0DB5hjYLs8uL9KtE0immhi",1,"#1 Stunna","0DB5hjYLs8uL9KtE0immhi",TRUE,161703,"$uicideboy$",NA,NA,NA
+"2HhLK0hZu9XjUuOrOZ4D5Y",2,"Loot","2HhLK0hZu9XjUuOrOZ4D5Y",TRUE,205264,"$uicideboy$","Ramirez","Black Smurf",NA
+"1eo2xawfqkXccZTTqzrg2m",3,"Pontiac Sunfire","1eo2xawfqkXccZTTqzrg2m",TRUE,141641,"$uicideboy$",NA,NA,NA
+"0xK6mxtum6akTBatRnhLEQ",4,"Magnolia","0xK6mxtum6akTBatRnhLEQ",TRUE,158824,"$uicideboy$","KirbLaGoop",NA,NA
+"1QVePJOBJCtfsOudYrJeLq",5,"Gabapentin Getaway","1QVePJOBJCtfsOudYrJeLq",TRUE,152601,"$uicideboy$",NA,NA,NA
+"6e65INz3xJ9QZ4k7a9Yqje",6,"$Hrimp Poboy","6e65INz3xJ9QZ4k7a9Yqje",TRUE,264243,"$uicideboy$","Supa",NA,NA
+"0NuemUW3xInX6HPN31RPxw",7,"Prettyleaf","0NuemUW3xInX6HPN31RPxw",TRUE,175449,"$uicideboy$",NA,NA,NA
+"33h5bUDTKeG7d5gWjXvRZ8",8,"To Kill a Mockingbird","33h5bUDTKeG7d5gWjXvRZ8",TRUE,170248,"$uicideboy$","Na$ty Matt",NA,NA
+"7s7q9dpsSCMEnDR3WhExZy",9,"Clouds as Witnesses","7s7q9dpsSCMEnDR3WhExZy",TRUE,153808,"$uicideboy$",NA,NA,NA
+"5B7ZA9qMLMDXfov9eyWQbK",10,"Guady Pack Shawty","5B7ZA9qMLMDXfov9eyWQbK",TRUE,198577,"$uicideboy$","Yung God",NA,NA
+"6NPDuyzOz4uKaPwWhHonrn",11,"Behold a Pale Horse","6NPDuyzOz4uKaPwWhHonrn",TRUE,144613,"$uicideboy$",NA,NA,NA
+"1y8QivbbrlKYjjIgq7vwed",12,"Kill Yourself (Pt. II)","1y8QivbbrlKYjjIgq7vwed",TRUE,446101,"$uicideboy$",NA,NA,NA
+"1jfQm9nM5bqF2XutbXUyw3",1,"Durango '95 (A Real Horror Show)","1jfQm9nM5bqF2XutbXUyw3",TRUE,165140,"$uicideboy$",NA,NA,NA
+"2fOFpY09Dyh5FZb8m5jkA4",2,"Lemon Slime","2fOFpY09Dyh5FZb8m5jkA4",TRUE,93808,"$uicideboy$",NA,NA,NA
+"0mwOMHipRaJf1PggRpOjik",3,"Smoked out, Loced Out - Part II","0mwOMHipRaJf1PggRpOjik",TRUE,273438,"$uicideboy$","Eddy Baker",NA,NA
+"5D04MTpf1nkIstzQDYELlH",4,"Flodgin'","5D04MTpf1nkIstzQDYELlH",TRUE,151301,"$uicideboy$",NA,NA,NA
+"7zNjwnJWBWJDUchrHzhYMo",5,"Limp Wrist","7zNjwnJWBWJDUchrHzhYMo",TRUE,162168,"$uicideboy$",NA,NA,NA
+"6GWnvQ2wJXFb7t5MQUIxen",6,"Sleep Walk","6GWnvQ2wJXFb7t5MQUIxen",TRUE,151672,"$uicideboy$",NA,NA,NA
+"0F95rLQQMzkSbRh0mfXKnQ",7,"Torcher","0F95rLQQMzkSbRh0mfXKnQ",TRUE,106904,"$uicideboy$",NA,NA,NA

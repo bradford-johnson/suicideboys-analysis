@@ -1,6 +1,8 @@
 # load packages
-  pacman::p_load(tidyverse,
-                 spotifyr)
+  pacman::p_load(
+    tidyverse,
+    spotifyr
+  )
 
 # set up spotify api
   Sys.getenv("SPOTIFY_CLIENT_ID")

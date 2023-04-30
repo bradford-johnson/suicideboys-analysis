@@ -33,5 +33,3 @@
   track_features |>
     ggplot(aes(x = duration_ms, y = danceability)) +
     geom_point(aes(size = energy, alpha = .5))
-
-  # look into combining g and s and seeing popularity etc  

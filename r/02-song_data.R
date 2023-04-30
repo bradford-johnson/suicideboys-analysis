@@ -2,7 +2,7 @@
   pacman::p_load(
     geniusr,
     tidyverse
-)
+  )
 
 # set client access token
   genius_token(force = FALSE)

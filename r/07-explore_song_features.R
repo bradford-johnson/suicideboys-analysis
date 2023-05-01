@@ -19,7 +19,32 @@
   
   tracks_and_features_joined <- tracks_joined |>
     inner_join(track_features, by = c("track_id" = "id"))
+
+# check which songs have lyrics
+  songs_with_lyrics <- read_csv("data/genius_lyrics.csv")
+  song_keys <- read_csv("data/song_keys.csv")
   
+  songs_with_lyrics <- songs_with_lyrics |>
+    group_by(genius_id) |>
+    count()
+  
+  songs_with_lyrics <- songs_with_lyrics |>
+    inner_join(song_keys, by = c("genius_id" = "genius_id")) |>
+    distinct(genius_id, .keep_all = TRUE)
+
+  songs_with_lyrics <- tracks_and_features_joined |>
+    inner_join(songs_with_lyrics, by = c("track_id" = "spotify_id"))
+  
+  songs_with_lyrics <- songs_with_lyrics |>
+    arrange(desc(release_date), track_number)
+  
+  #-----------------------------------------#
+  # 79 songs with lyrics total--------------#
+  # no full albums, only partial -----------#
+  # more of the most popular songs ---------#
+  # 15 partial albums present --------------#
+  #-----------------------------------------#
+
 # explore for insights
   
   track_features |>
